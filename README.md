@@ -58,3 +58,10 @@ Not:<br>
   Eğerki gerçek bir bitcoin ağında madencilik yapıyor olsanız oradaki değerler birkaç satır değil çok daha fazla olacaktır.
   Satır 30 ile 36 içindeki değerlere gelecek olursak.<br><br>
   Madencinin Bitcoin adresi, bir önceki block hash i ve o süreçte gerçekleşmiş dünyadaki tüm transfler yer alacaktır.<br>
+
+
+Önemli:<br>
+
+Buradaki işlemler tamamen madencilik çalışma mantığı hakkında bilgi vermek içindir.<br>
+Gerçek ağda yukarıdaki belirttiğim işlemlerin sayısı çok daha fazladır.
+Aynı zamanda tüm değşikenleri ayarlamış ve doğru sıra ile hash üretmiş olsaydık bile, bitcoin madenciliği yapmak için bitcoin-core indirierek full node denilen bugune kadarki tüm işlemleri çekmiş ve doğrulamış olmanız gerekmektedir. Buda yaklaşık 400 GB ve birkaç hafta alacaktır. Tüm bu data olmadan değişkenler içinde Zorunlu İstenen verilere sahip olamazdınız. Aynı zamanda yeni hash i ürettiğinizde ve bunu ağdaki diğer madenciler ile doğru şekilde paylaştığınızda ve onlardan biri dahi bunu doğruladığında bitcoin üretmiş sayılacaksınız.
