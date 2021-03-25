@@ -26,8 +26,8 @@ Python ile bitcoin madenciliği yapmak hakkında basit ve kısa bir örnek.
   bu kod ise o dan yada 1250 den başlayarak sonsuza kadar doğru hashi arayacak demektir.<br>
   
 3-<br>
-  python3.7 kazima.py 4 rastgele 15000 100000000000
-  buda 15000 ile 100000000000 arasında sürekli random bir sayı üreterek hash i bulmaya çalışacaktır.
+  python3.7 kazima.py 4 rastgele 15000 100000000000<br>
+  buda 15000 ile 100000000000 arasında sürekli random bir sayı üreterek hash i bulmaya çalışacaktır.<br>
   
   
   
